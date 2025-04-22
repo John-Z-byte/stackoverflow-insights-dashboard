@@ -8,13 +8,15 @@ Explore global developer trends through this interactive dashboard powered by **
 - **JavaScript**, **SQL**, and **Python** remain dominant.
 - Web development and data management continue leading the industry.
 
-  ![image](https://github.com/user-attachments/assets/4fa04967-5220-4610-82b4-7ad99a38844a)
+  ![image](https://github.com/user-attachments/assets/2ba62e25-d819-43e0-8ded-02d06fa05d8b)
+
 
 ### 2. **Remote Work Trends**
 - **Colombia** tops the world with **77%** remote developers.
 - **Ukraine** and **Argentina** show similar strong remote cultures.
 - 
-- ![image](https://github.com/user-attachments/assets/841a43e6-4a0d-4114-9976-298cbd048345)
+- ![image](https://github.com/user-attachments/assets/b9f58812-441d-438c-811c-f0d1dc2107b9)
+
 
 
 ### 3. **AI Sentiment**
@@ -28,7 +30,8 @@ Explore global developer trends through this interactive dashboard powered by **
 - Young developers (18-24): 54% are students, 23% freelancing.
 - **Older devs (65+)**: 91% continue **freelancing**, highlighting tech’s long career lifespan.
 
-![image](https://github.com/user-attachments/assets/b84991f7-d420-480b-89cd-4c6abf2b3f7e)
+![image](https://github.com/user-attachments/assets/f6d58906-2f25-4c09-b3c4-f1590c97015e)
+
 
 ---
 
