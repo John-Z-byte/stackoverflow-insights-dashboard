@@ -14,8 +14,8 @@ Explore global developer trends through this interactive dashboard powered by **
 ### 2. **Remote Work Trends**
 - **Colombia** tops the world with **77%** remote developers.
 - **Ukraine** and **Argentina** show similar strong remote cultures.
-- 
-- ![image](https://github.com/user-attachments/assets/b9f58812-441d-438c-811c-f0d1dc2107b9)
+  
+ ![image](https://github.com/user-attachments/assets/b9f58812-441d-438c-811c-f0d1dc2107b9)
 
 
 
@@ -23,15 +23,15 @@ Explore global developer trends through this interactive dashboard powered by **
 - **69%** of developers do **not** feel AI threatens their jobs.
 - Developers remain confident in their roles despite AI advancements.
 
-- ![image](https://github.com/user-attachments/assets/8d4f5613-4b6b-4cf5-96c7-a208941fbb10)
+ ![image](https://github.com/user-attachments/assets/9f826e23-0b2d-4893-9e08-c50a0fbe81fc)
+
 
 
 ### 4. **Age & Employment Status**
 - Young developers (18-24): 54% are students, 23% freelancing.
 - **Older devs (65+)**: 91% continue **freelancing**, highlighting tech’s long career lifespan.
 
-![image](https://github.com/user-attachments/assets/f6d58906-2f25-4c09-b3c4-f1590c97015e)
-
+  ![image](https://github.com/user-attachments/assets/e0a77399-cd1a-46b8-8b8c-a91d57f7eb7f)
 
 ---
 
