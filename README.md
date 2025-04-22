@@ -32,7 +32,7 @@ Explore global developer trends through this interactive dashboard powered by **
 
 ---
 
-## 🛠 Tech Stack:
+##  Tech Stack:
 - **Python** (Pandas, Matplotlib)
 - **Streamlit** (Dashboard)
 - **SQL** (Data handling)
@@ -52,7 +52,7 @@ Coming soon! (Optional: Link to your deployed Streamlit app)
 
 ---
 
-## 📬 Contact:
+##  Contact:
 - **John Zapata**  
 - [johnzapatanalytics.com](https://johnzapatanalytics.com)  
 - [LinkedIn]([https://linkedin.com/in/john-zapata](https://www.linkedin.com/in/john-z-99698a115/))
