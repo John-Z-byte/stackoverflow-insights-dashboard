@@ -55,7 +55,12 @@ Coming soon! (Optional: Link to your deployed Streamlit app)
 
 ---
 
-##  Contact:
-- **John Zapata**  
-- [johnzapatanalytics.com](https://johnzapatanalytics.com)  
-- [LinkedIn]([https://linkedin.com/in/john-zapata](https://www.linkedin.com/in/john-z-99698a115/))
+### 📬 Contact Me
+
+[![Email](https://img.shields.io/badge/Email-contact%40johnzapatanalytics.com-blue?style=flat&logo=gmail&logoColor=white)](mailto:contact@johnzapatanalytics.com)  
+[![Website](https://img.shields.io/badge/Website-johnzapatanalytics.com-000000?style=flat&logo=firefox&logoColor=white)](https://www.johnzapatanalytics.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-John--Z--byte-181717?style=flat&logo=github)](https://github.com/John-Z-byte)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-john--z-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-z-99698a115/)  
+[![Instagram](https://img.shields.io/badge/Instagram-@johnezapatam-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/johnezapatam/)
+
+> Let’s build something powerful together 🚀
